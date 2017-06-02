@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldMantis.GMFxCore.Web.Mvc", "GoldMantis.GMFxCore.Web.Mvc\GoldMantis.GMFxCore.Web.Mvc.csproj", "{BED814E7-FCC9-4BF4-ABBA-DC9AA396CE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldMantis.GMFxCore.Core", "GoldMantis.GMFxCore.Core\GoldMantis.GMFxCore.Core.csproj", "{11B64E84-BA6B-44E6-97D7-4214FDF9AA02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldMantis.GMFxCore.Extensions", "GoldMantis.GMFxCore.Extensions\GoldMantis.GMFxCore.Extensions.csproj", "{68F2839F-7E5A-46DD-9807-DC1058B301AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldMantis.GMFxCore.Web.Core", "GoldMantis.GMFxCore.Web.Core\GoldMantis.GMFxCore.Web.Core.csproj", "{982E7E95-5404-47A9-8A1A-5E69E0F8A422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED814E7-FCC9-4BF4-ABBA-DC9AA396CE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED814E7-FCC9-4BF4-ABBA-DC9AA396CE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED814E7-FCC9-4BF4-ABBA-DC9AA396CE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED814E7-FCC9-4BF4-ABBA-DC9AA396CE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B64E84-BA6B-44E6-97D7-4214FDF9AA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B64E84-BA6B-44E6-97D7-4214FDF9AA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B64E84-BA6B-44E6-97D7-4214FDF9AA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B64E84-BA6B-44E6-97D7-4214FDF9AA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F2839F-7E5A-46DD-9807-DC1058B301AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F2839F-7E5A-46DD-9807-DC1058B301AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F2839F-7E5A-46DD-9807-DC1058B301AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F2839F-7E5A-46DD-9807-DC1058B301AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982E7E95-5404-47A9-8A1A-5E69E0F8A422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982E7E95-5404-47A9-8A1A-5E69E0F8A422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982E7E95-5404-47A9-8A1A-5E69E0F8A422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982E7E95-5404-47A9-8A1A-5E69E0F8A422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
